@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1708084610 source:e:\iti\final»«–‰ «··Â\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final.cpp
+	<iostream>
+	"WaitingQueue.h"
+	"Bank.h"
+
+1707421773 e:\iti\final»«–‰ «··Â\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final\waitingqueue.h
+	<iostream>
+	"Node.h"
+
+1707421580 e:\iti\final»«–‰ «··Â\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final\node.h
+
+1708092968 e:\iti\final»«–‰ «··Â\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final\bank.h
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+	<windows.h>
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+
+1708092961 e:\iti\final»«–‰ «··Â\bankqueuemanagementsystem_final\bankqueuemanagementsystem_final\customer.h
+	<string>
+

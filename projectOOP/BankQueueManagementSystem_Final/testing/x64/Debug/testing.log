@@ -1,0 +1,8 @@
+﻿  testing.cpp
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(50,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(61,73): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(61,73): warning C4267:         with
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(61,73): warning C4267:         [
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(61,73): warning C4267:             _Ty=int
+E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\testing\testing.cpp(61,73): warning C4267:         ]
+  testing.vcxproj -> E:\ITI\C++\Mohammed_Ali__Project\BankQueueManagementSystem_Final\x64\Debug\testing.exe

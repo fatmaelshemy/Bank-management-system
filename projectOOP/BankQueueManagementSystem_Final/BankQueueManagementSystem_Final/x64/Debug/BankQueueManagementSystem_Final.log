@@ -1,0 +1,5 @@
+﻿  BankQueueManagementSystem_Final.cpp
+E:\iti\projectOOP\BankQueueManagementSystem_Final\BankQueueManagementSystem_Final\Bank.h(198,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankQueueManagementSystem_Final.cpp')
+  
+  BankQueueManagementSystem_Final.vcxproj -> E:\iti\projectOOP\BankQueueManagementSystem_Final\x64\Debug\BankQueueManagementSystem_Final.exe
